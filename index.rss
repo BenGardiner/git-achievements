@@ -2,6 +2,7 @@
 <title>Ben Gardiner's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Fisherman (Level 5)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Apprentice Traveler (Level 3)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Apprentice Traveler (Level 2)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Apprentice Traveler (Level 1)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Historian (Level 6)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Fisherman (Level 3)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
-<item><title>Apprentice Gipsy (Level 2)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 </channel></rss>
