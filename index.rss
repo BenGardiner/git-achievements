@@ -2,6 +2,7 @@
 <title>Ben Gardiner's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Cleaning lady (Level 1)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Apprentice Architect (Level 3)</title><description>Created a new repository with git init.</description></item>
 <item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Fisherman (Level 5)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Fisherman (Level 4)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Archivist (Level 4)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Apprentice Tree Trimmer (Level 3)</title><description>Rewrite branches with git filter-branch</description></item>
-<item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 </channel></rss>
