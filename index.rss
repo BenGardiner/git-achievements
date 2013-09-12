@@ -2,6 +2,7 @@
 <title>Ben Gardiner's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Historian (Level 10)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Master Historian (Level 9)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Apprentice Goldsmith (Level 3)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 73 times with git add -p.</description></item>
 <item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Collector (Level 4)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Traveler (Level 4)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 </channel></rss>
